@@ -13,7 +13,7 @@
         "type": "image/png"
       }
     ],
-    "start_url": "https://ego.tsu2t.com/index.html",
+    "start_url": "../",
     "display": "standalone",
     "background_color": "#0f0f0f",
     "theme_color": "#4DBA87"
